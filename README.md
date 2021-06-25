@@ -3,6 +3,9 @@
 ## Template
 [Template](https://websitedemos.net/learn-baking-02/)
 
+## PRESENTATION
+[PPT](https://github.com/ELMESKINEAnas/wordpress_first_project/blob/main/presentation_Wordpress.pdf)
+
 ## Website Captions
 [Home](https://github.com/ELMESKINEAnas/wordpress_first_project/blob/main/home-wordpress.pdf)
 <br>
